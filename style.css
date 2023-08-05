@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+/* Styles for the card */
+.card {
+  width: 300px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 2px 2px green,0 3px 15px  greenyellow;
+  margin-top: 100px;
+}
+#password{
+    color: red;
+}
+/* Styles for the button */
+.btn {
+  background-color: #4CAF50;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+p{
+    font-family: 'Poppins', sans-serif;
+}
