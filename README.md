@@ -41,5 +41,5 @@ Feel free to contribute by submitting pull requests and suggesting improvements.
 For queries or collaboration, reach out via **[Email](mailto:abhishek731827@gmail.com)** or visit our website: [onedaystudy.online](https://www.onedaystudy.online).
 
 ---
-Developed by **Abhishek & Team** 🚀
+Developed by **Abhishek** 🚀
 
